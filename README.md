@@ -1,16 +1,16 @@
-## Hi there 👋
+# I am LI JING and nice to meet you! 👋
+##  👧About Myself 
+Greetings! I'm **LIM LI JING**, currently pursuing degree in **Data Engineering** at the **University of Technology Malaysia**.
 
-<!--
-**limlijing/limlijing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🔹Name:** LIM LI JING  
+**🔹Age:** 19  
+**🔹Nationality:** Malaysian  
+**🔹Education:** 1st year data engineering student at Universiti Teknologi Malaysia
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🖥️skill
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="30"/>
+</p>
