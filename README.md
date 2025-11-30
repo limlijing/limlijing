@@ -17,3 +17,8 @@ Greetings! I'm **LIM LI JING**, currently pursuing degree in **Data Engineering*
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/>
 </p>
+
+##  📩Contact
+ℹ️**LinkedIn :** www.linkedin.com/in/lim-li-jing-13540b395
+
+📧**email :** limlijing@gradruate.utm.my
