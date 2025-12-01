@@ -22,3 +22,5 @@ Greetings! I'm **LIM LI JING**, currently pursuing degree in **Data Engineering*
 ℹ️**LinkedIn :** www.linkedin.com/in/lim-li-jing-13540b395
 
 📧**email :** limlijing@gradruate.utm.my
+
+## 🏆Licences & Certificates
