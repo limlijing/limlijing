@@ -27,3 +27,9 @@ Greetings! I'm **LIM LI JING**, currently pursuing degree in **Data Engineering*
 
 
 ## 🏆Licences & Certificates
+
+## Position
+Pre u-Pal Leader,President  Moral,Treasurer Co-curricular, Ajk Dance Club, Ajk Chemistry Club
+
+Secondary School- Vice president Chinese Society ,Treasurer Pengawas, Secretary Renjer Puteri, Treasurer Sport,Treasurer Class 
+
