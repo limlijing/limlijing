@@ -19,8 +19,11 @@ Greetings! I'm **LIM LI JING**, currently pursuing degree in **Data Engineering*
 </p>
 
 ##  📩Contact
-ℹ️**LinkedIn :** www.linkedin.com/in/lim-li-jing-13540b395
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/lim-li-jing-13540b395)
 
-📧**email :** limlijing@gradruate.utm.my
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:limlijing@gradruate.utm.my)
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/limlijing)
+
 
 ## 🏆Licences & Certificates
