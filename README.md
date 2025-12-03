@@ -33,3 +33,12 @@ Pre u-Pal Leader,President  Moral,Treasurer Co-curricular, Ajk Dance Club, Ajk C
 
 Secondary School- Vice president Chinese Society ,Treasurer Pengawas, Secretary Renjer Puteri, Treasurer Sport,Treasurer Class 
 
+## Education
+
+SJK (C) SING HWA (2013-2018)
+
+SMK TUN PERAK (2019-2023)
+
+KOLEJ MATRIKULASI JOHOR (2024-2025)
+
+UNIVERSITY TEKNOLGY MALAYSIA (2025-2029)
