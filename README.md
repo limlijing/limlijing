@@ -1,4 +1,4 @@
-# I am LI JING and nice to meet you! 👋
+# I am LI JING and nice to meet you! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="45">
 ##  👧About Myself 
 Greetings! I'm **LIM LI JING**, currently pursuing degree in **Data Engineering** at the **University of Technology Malaysia**.
 
@@ -6,6 +6,23 @@ Greetings! I'm **LIM LI JING**, currently pursuing degree in **Data Engineering*
 **🔹Age:** 19  
 **🔹Nationality:** Malaysian  
 **🔹Education:** 1st year data engineering student at Universiti Teknologi Malaysia
+
+## 🎓School Journey
+
+🔹🎒 SJK (C) SING HWA **2013-2018**
+
+🔹🏫 SMK TUN PERAK **2019-2023**
+
+🔹📚 KOLEJ MATRIKULASI JOHOR **2024-2025**
+
+🔹📜 UNIVERSITY TEKNOLGY MALAYSIA **2025(now)-2029**
+
+ 
+## 🔏Position
+
+🔹**Pre u**-Pal Leader,President  Moral,Treasurer Co-curricular, Ajk Dance Club, Ajk Chemistry Club
+
+🔹**Secondary School**- Vice president Chinese Society ,Treasurer Pengawas, Secretary Renjer Puteri, Treasurer Sport,Treasurer Class
 
 ## 🖥️skill
 <p align="left">
@@ -18,36 +35,19 @@ Greetings! I'm **LIM LI JING**, currently pursuing degree in **Data Engineering*
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/>
 </p>
 
-## 🎓School Journey
-
-🎒 SJK (C) SING HWA **2013-2018**
-
-🏫 SMK TUN PERAK **2019-2023**
-
-📚 KOLEJ MATRIKULASI JOHOR **2024-2025**
-
-📜 UNIVERSITY TEKNOLGY MALAYSIA **2025(now)-2029**
-
- 
-## 🔏Position
-
-**Pre u**-Pal Leader,President  Moral,Treasurer Co-curricular, Ajk Dance Club, Ajk Chemistry Club
-
-**Secondary School**- Vice president Chinese Society ,Treasurer Pengawas, Secretary Renjer Puteri, Treasurer Sport,Treasurer Class
-
 ## 📖My Course
-[SECP1513](https://github.com/limlijing/SECP1513_TIS)
+🔹[SECP1513](https://github.com/limlijing/SECP1513_TIS)
 
-[SECJ1013](https://github.com/limlijing/SECJ1013_PT)
+🔹[SECJ1013](https://github.com/limlijing/SECJ1013_PT)
 
-[SECI1013](https://github.com/limlijing/SECI1013_DS)
+🔹[SECI1013](https://github.com/limlijing/SECI1013_DS)
 
-[SECR1013](https://github.com/limlijing/SECR1013_DL)
+🔹[SECR1013](https://github.com/limlijing/SECR1013_DL)
 
 ## 🏆Licences & Certificates
 
 
-## 📩Contact
+## 📩Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/lim-li-jing-13540b395)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:limlijing@gradruate.utm.my)
