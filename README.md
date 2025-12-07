@@ -5,7 +5,8 @@ Greetings! I'm **LIM LI JING**, currently pursuing degree in **Data Engineering*
 **🔹Name:** LIM LI JING  
 **🔹Age:** 19  
 **🔹Nationality:** Malaysian  
-**🔹Education:** 1st year data engineering student at Universiti Teknologi Malaysia
+**🔹Education:** 1st year data engineering student at Universiti Teknologi Malaysia        
+**🔹Eportfolio:** [Myself](https://limlijing.github.io/myportfolio/)
 
 ## 🎓School Journey
 
