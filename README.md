@@ -34,16 +34,17 @@ Greetings! I'm **LIM LI JING**, currently pursuing degree in **Data Engineering*
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="30"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="30"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30"/>
+
  </p>
 
-## 📖My Course
+## 📖My Course 
+🔹[notes](https://github.com/limlijing/studymaterials)
 🔹[SECP1513](https://github.com/limlijing/SECP1513_TIS)
 🔹[SECJ1013](https://github.com/limlijing/SECJ1013_PT)
 🔹[SECI1013](https://github.com/limlijing/SECI1013_DS)
 🔹[SECR1013](https://github.com/limlijing/SECR1013_DL)
-
-## 🏆Licences & Certificates
-
 
 ## 📩Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/lim-li-jing-13540b395)
