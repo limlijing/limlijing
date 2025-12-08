@@ -36,7 +36,7 @@ Greetings! I'm **LIM LI JING**, currently pursuing degree in **Data Engineering*
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/>
  </p>
 
-## 📖My Course & [Study Materials](https://limlijing.github.io/studymaterials//)
+## 📖My Course
 🔹[SECP1513](https://github.com/limlijing/SECP1513_TIS)
 🔹[SECJ1013](https://github.com/limlijing/SECJ1013_PT)
 🔹[SECI1013](https://github.com/limlijing/SECI1013_DS)
