@@ -40,7 +40,7 @@ Greetings! I'm **LIM LI JING**, currently pursuing degree in **Data Engineering*
  </p>
 
 ## 📖My Course 
-🔹[notes](https://github.com/limlijing/studymaterials)
+🔹[notes](https://limlijing.github.io/studymaterials/)
 🔹[SECP1513](https://github.com/limlijing/SECP1513_TIS)
 🔹[SECJ1013](https://github.com/limlijing/SECJ1013_PT)
 🔹[SECI1013](https://github.com/limlijing/SECI1013_DS)
