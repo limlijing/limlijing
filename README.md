@@ -46,6 +46,9 @@ Greetings! I'm **LIM LI JING**, currently pursuing degree in **Data Engineering*
 🔹[SECI1013](https://github.com/limlijing/SECI1013_DS)
 🔹[SECR1013](https://github.com/limlijing/SECR1013_DL)
 
+## 🏆Achivement
+🔹[CERTIFICATES](https://www.canva.com/templates/EAGXqDKRcHI/)
+
 ## 📩Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/lim-li-jing-13540b395)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:limlijing@gradruate.utm.my)
