@@ -47,7 +47,7 @@ Greetings! I'm **LIM LI JING**, currently pursuing degree in **Data Engineering*
 🔹[SECR1013](https://github.com/limlijing/SECR1013_DL)
 
 ## 🏆Achivement
-🔹[CERTIFICATES](https://www.canva.com/templates/EAGXqDKRcHI/)
+🔹[CERTIFICATES](https://lining429.my.canva.site/light-beige-sleek-and-simple-blogger-personal-website)
 
 ## 📩Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/lim-li-jing-13540b395)
