@@ -1,11 +1,12 @@
-# I am LI JING and nice to meet you! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="45">
+# I am LI JING and nice to meet you! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="45">  
 ##  👧About Myself 
 Greetings! I'm **LIM LI JING**, currently pursuing degree in **Data Engineering** at the **University of Technology Malaysia**.
 
 **🔹Name:** LIM LI JING  
 **🔹Age:** 19  
 **🔹Nationality:** Malaysian  
-**🔹Education:** 1st year data engineering student at Universiti Teknologi Malaysia        
+**🔹Education:** 1st year data engineering student at Universiti Teknologi Malaysia  
+**🔹Scholar:** Kuok Foundation Scholar  
 **🔹Eportfolio:** [Myself](https://limlijing.github.io/myportfolio/)
 
 ## 🎓School Journey
