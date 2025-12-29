@@ -14,11 +14,27 @@ Greetings! I'm **LIM LI JING**, currently pursuing degree in **Data Engineering*
 🔹🎒 SJK (C) SING HWA **2013-2018**
 
 🔹🏫 SMK TUN PERAK **2019-2023**
+```yaml
+ SPM     : 5A+ 2A 1A- 2B+
+ Co-     : 9++
+ Anugerah: Anugerah Pelajar Cemerlang 2019-2023
+```
 
 🔹📚 KOLEJ MATRIKULASI JOHOR **2024-2025**
-
-🔹📜 UNIVERSITY TEKNOLGY MALAYSIA **2025(now)-2029**
-
+```yaml
+ PSPM    : 4.00
+ Co-     : 10
+ Muet    ：4.0
+ Anugerah: Anugerah Khas Gemilang Pelajar Cemerlang Seluruh SESI 2024/2025
+```
+🔹📜 UNIVERSITY TEKNOLGY MALAYSIA **2025-2029**
+```yaml
+ Year 1  :
+ Year 2  :
+ Year 3  :
+ Year 4  :
+ Anugerah: 
+```
  
 ## 🔏Position
 Universiti Teknologi Malaysia
@@ -68,7 +84,7 @@ Ajk Badminton
 
 
 ## 🏆Achivement
-🔹[More details](https://lining429.my.canva.site/light-beige-sleek-and-simple-blogger-personal-website)
+🔹[Click to see more Licenses & competition](https://lining429.my.canva.site/light-beige-sleek-and-simple-blogger-personal-website)
 | Competition | Ranking | Stage |
 |------|--------|-----------|
 | Youth Stem Cup | Participant Final Round |International|
@@ -81,8 +97,17 @@ Ajk Badminton
 |KUIZ KIMIA KEBANGSAAN O LEVEL|DISTINCTION|National| 
 |DIGITAL COMPENTACY SCORE|DIGITAL ADVANCED|National|
 
-## Project
+## 🎯Project
+🔹Solar Powered Power Bank.
+A school engineering project involving renewable energy
 
+🔹Integration Escape Room Game.
+An interactive escape room experience by using Gemini/Scratch.
+
+🔹My Mental Health App.
+A mobile app designed to support mental well-being by using Flutter.
+
+[Click here to see project](https://limlijing.github.io/myportfolio/)
 
 ## 📩Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/lim-li-jing-13540b395)
