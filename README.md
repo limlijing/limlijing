@@ -12,11 +12,14 @@ Greetings! I'm **LIM LI JING**, currently pursuing degree in **Data Engineering*
 ## 🎓School Journey
 
 🔹🎒 SJK (C) SING HWA **2013-2018**
+```yaml
+ UPSR    : 4A 4B
+```
 
 🔹🏫 SMK TUN PERAK **2019-2023**
 ```yaml
- SPM     : 5A+ 2A 1A- 2B+
- Co-     : 9++
+ SPM     : 5A+ 3A 2B+
+ Co-     : 8.97
  Anugerah: Anugerah Pelajar Cemerlang 2019-2023
 ```
 
@@ -59,20 +62,6 @@ Treasurer Class
 Ajk Badminton
 ```
 
-## 🖥️skill
- <p align="left">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"width="30"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="30"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="30"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="30"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30"/>
-
- </p>
-
 ## 📖My Course 
 | Code | Course |
 |------|--------|
@@ -98,6 +87,7 @@ Ajk Badminton
 |DIGITAL COMPENTACY SCORE|DIGITAL ADVANCED|National|
 
 ## 🎯Project
+🔹[Click to see project](https://limlijing.github.io/myportfolio/)  
 🔹Solar Powered Power Bank.
 A school engineering project involving renewable energy
 
@@ -107,7 +97,21 @@ An interactive escape room experience by using Gemini/Scratch.
 🔹My Mental Health App.
 A mobile app designed to support mental well-being by using Flutter.
 
-[Click here to see project](https://limlijing.github.io/myportfolio/)
+
+
+## 🖥️skill
+ <p align="left">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"width="30"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="30"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="30"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="30"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30"/>
+
+ </p>
 
 ## 📩Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/lim-li-jing-13540b395)
