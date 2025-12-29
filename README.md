@@ -21,10 +21,27 @@ Greetings! I'm **LIM LI JING**, currently pursuing degree in **Data Engineering*
 
  
 ## 🔏Position
-
-🔹**Pre u**-Pal Leader,President  Moral,Treasurer Co-curricular, Ajk Dance Club, Ajk Chemistry Club
-
-🔹**Secondary School**- Vice president Chinese Society ,Treasurer Pengawas, Secretary Renjer Puteri, Treasurer Sport,Treasurer Class
+Universiti Teknologi Malaysia
+```yaml
+Active Member CyberX
+```
+Kolej Matrikulasi Johor
+```yaml
+Pal Leader
+President Moral
+Treasurer Co-curricular
+Ajk Dance Club
+Ajk Chemistry Club
+```
+SMK TUN PERAK
+```yaml
+Vice president Chinese Society
+Treasurer Inspector
+Secretary Renjer Puteri
+Treasurer Sport
+Treasurer Class
+Ajk Badminton
+```
 
 ## 🖥️skill
  <p align="left">
@@ -41,14 +58,31 @@ Greetings! I'm **LIM LI JING**, currently pursuing degree in **Data Engineering*
  </p>
 
 ## 📖My Course 
-🔹[notes](https://limlijing.github.io/studymaterials/)
-🔹[SECP1513](https://github.com/limlijing/SECP1513_TIS)
-🔹[SECJ1013](https://github.com/limlijing/SECJ1013_PT)
-🔹[SECI1013](https://github.com/limlijing/SECI1013_DS)
-🔹[SECR1013](https://github.com/limlijing/SECR1013_DL)
+| Code | Course |
+|------|--------|
+| MyCode | [WebNote](https://limlijing.github.io/studymaterials/) |
+| SECJ1013| [Programming Technique I](https://github.com/limlijing/SECJ1013_PT) |
+| SECR1513| [DIGITAL LOGIC](https://github.com/limlijing/SECR1013_DL)|
+| SECP1513|[Technology And Information System](https://github.com/limlijing/SECP1513_TIS)|
+| SECI1013|[Discrete Structure](https://github.com/limlijing/SECI1013_DS)|
+
 
 ## 🏆Achivement
-🔹[CERTIFICATES](https://lining429.my.canva.site/light-beige-sleek-and-simple-blogger-personal-website)
+🔹[More details](https://lining429.my.canva.site/light-beige-sleek-and-simple-blogger-personal-website)
+| Competition | Ranking | Stage |
+|------|--------|-----------|
+| Youth Stem Cup | Participant Final Round |International|
+| National Sustainability Innovation Challenge 2025 | SILVER |International|
+| IIEF 2025|SILVER|International|
+| IMEPTC UTHM 2025|BRONZE|International|
+| Innomath IMU|SILVER|International|
+|Math Trail|GOLD|College|
+|KUIZ KIMIA KEBANGSAAN A LEVEL|MERIT|National|
+|KUIZ KIMIA KEBANGSAAN O LEVEL|DISTINCTION|National| 
+|DIGITAL COMPENTACY SCORE|DIGITAL ADVANCED|National|
+
+## Project
+
 
 ## 📩Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/lim-li-jing-13540b395)
