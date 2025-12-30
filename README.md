@@ -67,10 +67,10 @@ Ajk Badminton
 |------|--------|
 | MyCode | [WebNote](https://limlijing.github.io/studymaterials/) |
 | SECJ1013| [Programming Technique I](https://github.com/limlijing/SECJ1013_PT) |
-| SECR1513| [DIGITAL LOGIC](https://github.com/limlijing/SECR1013_DL)|
+| SECR1513| [Digital Logic](https://github.com/limlijing/SECR1013_DL)|
 | SECP1513|[Technology And Information System](https://github.com/limlijing/SECP1513_TIS)|
 | SECI1013|[Discrete Structure](https://github.com/limlijing/SECI1013_DS)|
-
+| ULRS1032|[Integrity & Anti-Corrution Course](https://github.com/limlijing/ULRS1032-Integrity)|
 
 ## 🏆Achivement
 🔹[Click to see more Licenses & competition](https://lining429.my.canva.site/light-beige-sleek-and-simple-blogger-personal-website)
