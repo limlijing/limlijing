@@ -1,6 +1,6 @@
 # I am LI JING and nice to meet you ! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="45">  
 ##  👧About Myself 
-Greetings! I'm **LIM LI JING**, currently pursuing degree in **Data Engineering** at the **University of Technology Malaysia**.
+Greetings! I'm **LIM LI JING**, currently pursuing degree in **Data Engineering** at the **University of Technology Malaysia**.I am passionate about data pipeline engineering, platform reliability, and enabling data-driven culture.
 
 **🔹Name:** LIM LI JING  
 **🔹Age:** 19  
