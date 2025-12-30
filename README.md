@@ -76,7 +76,7 @@ Ajk Badminton
 🔹[Click to see more Licenses & competition](https://lining429.my.canva.site/light-beige-sleek-and-simple-blogger-personal-website)
 | Competition | Ranking | Stage |
 |------|--------|-----------|
-| Youth Stem Cup | Participant Final Round |International|
+| Youth Stem Cup | Final Round |International|
 | National Sustainability Innovation Challenge 2025 | SILVER |International|
 | IIEF 2025|SILVER|International|
 | IMEPTC UTHM 2025|BRONZE|International|
