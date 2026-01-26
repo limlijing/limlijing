@@ -1,5 +1,13 @@
-![banner](https://github.com/limlijing/limlijing/blob/main/Bannner.png)
-# I am LI JING and nice to meet you ! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="45">  
+![banner](https://github.com/limlijing/limlijing/blob/main/Bannner.png)  
+
+</div>
+<h1 align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&width=900&lines=I+am+LIM+LI+JING+!+Nice+to+meet+you+👋;A+Data+Engineering+Student" /></h1>
+
+</h1>
+<div align="center">
+</div>
+ 
 ##  👧About Myself 
 Greetings! I'm **LIM LI JING**, currently pursuing degree in **Data Engineering** at the **University of Technology Malaysia**.I am passionate about data pipeline engineering, platform reliability, and enabling data-driven culture.
 
@@ -89,18 +97,24 @@ Ajk Badminton
 
 ## 🎯Project
 🔹[Click to see project](https://limlijing.github.io/myportfolio/)  
-🔹Solar Powered Power Bank.
+🔹Design Thinking.  
+Moore Space, an app design that can help students to see the live map via IOT sensor camera,booking the room easily and real time push notification 
+
+🔹Deeds Simulation.    
+Advance Lift Controller System	To design a secure, simulated lift controller system featuring 3-bit synchronous counters for floor navigation and a 4-digit password authentication mechanism with a limited attempt security protocol.  
+
+🔹Solar Powered Power Bank.   
 A school engineering project involving renewable energy
 
-🔹Integration Escape Room Game.
+🔹Integration Escape Room Game.  
 An interactive escape room experience by using Gemini/Scratch.
 
-🔹My Mental Health App.
+🔹My Mental Health App.  
 A mobile app designed to support mental well-being by using Flutter.
 
 
 
-## 🖥️skill
+## 🖥️Skills
  <p align="left">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30"/>
@@ -113,8 +127,15 @@ A mobile app designed to support mental well-being by using Flutter.
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30"/>
 
  </p>
+ 
+## 📊GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=limlijing&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limlijing&layout=compact&theme=tokyonight)
+
 
 ## 📩Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/lim-li-jing-13540b395)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:limlijing@gradruate.utm.my)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/limlijing)
+
+⭐ *Open to internships & learning opportunities*
