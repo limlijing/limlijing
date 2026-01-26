@@ -96,20 +96,19 @@ Ajk Badminton
 |DIGITAL COMPENTACY SCORE|DIGITAL ADVANCED|National|
 
 ## 🎯Project
-🔹[Click to see project](https://limlijing.github.io/myportfolio/)  
-🔹Design Thinking.  
+🔹[Design Thinking. ](https://github.com/limlijing/SECP1513_TIS/blob/main/projectdesignthinkinggroup7%20(1).pdf)    
 Moore Space, an app design that can help students to see the live map via IOT sensor camera,booking the room easily and real time push notification 
 
-🔹Deeds Simulation.    
+🔹[Deeds Simulation.](https://github.com/limlijing/SECR1013_DL/blob/main/GROUP%202%20REPORT%20(1).pdf)    
 Advance Lift Controller System	To design a secure, simulated lift controller system featuring 3-bit synchronous counters for floor navigation and a 4-digit password authentication mechanism with a limited attempt security protocol.  
 
-🔹Solar Powered Power Bank.   
+🔹[Solar Powered Power Bank.](https://limlijing.github.io/myportfolio/pdf/powersolar.pdf)   
 A school engineering project involving renewable energy
 
-🔹Integration Escape Room Game.  
+🔹[Integration Escape Room Game.](https://limlijing.github.io/myportfolio/pdf/escaperoom.pdf)  
 An interactive escape room experience by using Gemini/Scratch.
 
-🔹My Mental Health App.  
+🔹[My Mental Health App.](https://limlijing.github.io/Mental-Health-Support-/)  
 A mobile app designed to support mental well-being by using Flutter.
 
 
