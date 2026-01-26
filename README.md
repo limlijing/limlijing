@@ -103,7 +103,8 @@ Ajk Badminton
 ## 📊GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=limlijing&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limlijing&layout=compact&theme=tokyonight)
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=limlijing&bg_color=191919&color=ffffff&line=14b8a6&point=ffffff&area=true&hide_border=true)  
+<br>
 
 ## 📩Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/lim-li-jing-13540b395)
