@@ -95,22 +95,35 @@ Ajk Badminton
 |KUIZ KIMIA KEBANGSAAN O LEVEL|DISTINCTION|National| 
 |DIGITAL COMPENTACY SCORE|DIGITAL ADVANCED|National|
 
-## 🎯Project
-🔹[Design Thinking. ](https://github.com/limlijing/SECP1513_TIS/blob/main/projectdesignthinkinggroup7%20(1).pdf)    
-Moore Space, an app design that can help students to see the live map via IOT sensor camera,booking the room easily and real time push notification 
+## 🎯 Featured Projects
 
-🔹[Deeds Simulation.](https://github.com/limlijing/SECR1013_DL/blob/main/GROUP%202%20REPORT%20(1).pdf)    
-Advance Lift Controller System	To design a secure, simulated lift controller system featuring 3-bit synchronous counters for floor navigation and a 4-digit password authentication mechanism with a limited attempt security protocol.  
+### 🔹 [Design Thinking](https://github.com/limlijing/SECP1513_TIS/blob/main/projectdesignthinkinggroup7%20(1).pdf)
+📌 **Moore Space** – An app that helps students view live maps via IoT sensor cameras, book rooms easily, and receive real-time push notifications.  
+🛠 Skills: App Design, IoT Integration, UX/UI
 
-🔹[Solar Powered Power Bank.](https://limlijing.github.io/myportfolio/pdf/powersolar.pdf)   
-A school engineering project involving renewable energy
+---
 
-🔹[Integration Escape Room Game.](https://limlijing.github.io/myportfolio/pdf/escaperoom.pdf)  
-An interactive escape room experience by using Gemini/Scratch.
+### 🔹 [Deeds Simulation](https://github.com/limlijing/SECR1013_DL/blob/main/GROUP%202%20REPORT%20(1).pdf)
+📌 **Advanced Lift Controller System** – Simulated lift system with 3-bit synchronous counters for floor navigation and a 4-digit password authentication with limited attempts.  
+🛠 Skills: Digital Logic Design, Security Protocols, Simulation
 
-🔹[My Mental Health App.](https://limlijing.github.io/Mental-Health-Support-/)  
-A mobile app designed to support mental well-being by using Flutter.
+---
 
+### 🔹 [Solar Powered Power Bank](https://limlijing.github.io/myportfolio/pdf/powersolar.pdf)
+📌 School engineering project using **renewable energy** to build a solar-powered power bank.  
+🛠 Skills: Renewable Energy, Electronics, Engineering Design
+
+---
+
+### 🔹 [Integration Escape Room Game](https://limlijing.github.io/myportfolio/pdf/escaperoom.pdf)
+📌 Interactive escape room experience using **Gemini / Scratch**.  
+🛠 Skills: Game Design, Programming Logic, Interactive Media
+
+---
+
+### 🔹 [My Mental Health App](https://limlijing.github.io/Mental-Health-Support-/)
+📌 Mobile app designed to support **mental well-being** using **Flutter**.  
+🛠 Skills: Flutter, Mobile App Development, UX/UI Design
 
 
 ## 🖥️Skills
