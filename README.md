@@ -40,8 +40,8 @@ Universiti Teknologi Malaysia (2025-2029)
 ```yaml
 Year 1:
 Year 2:
-Year3:
-Year4:
+Year 3:
+Year 4:
 Anugerah:
 ```
 ## 🔏Leadership/Position
