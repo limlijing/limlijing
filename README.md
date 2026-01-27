@@ -19,14 +19,31 @@ Greetings! I'm **LIM LI JING**, currently pursuing degree in **Data Engineering*
 **🔹Eportfolio:** [Myself](https://limlijing.github.io/myportfolio/)
 
 ## 🎓 Education
-| School | Year | Achievements / Grades |
-|--------|------|----|
-| SJK (C) SING HWA | 2013-2018 | UPSR: 4A 4B |
-| SMK TUN PERAK | 2019-2023 | SPM: 5A+ 3A 2B+,Co-curricular: 8.97, Anugerah Pelajar Cemerlang 2019-2023 |
-| KOLEJ MATRIKULASI JOHOR | 2024-2025 | PSPM: 4.0, MUET: 4.0,Co-curricular: 10,Anugerah Khas Gemilang Kesluruhan 2024/2025 |
-| UNIVERSITI TEKNOLOGI MALAYSIA | 2025-2029 | Year 1:, Anugerah:  |
-
- 
+SMK TUN PERAK(2013-2018)
+```yaml
+UPSR: 4A 4B
+```
+SMK TUN PERAK(2019-2023)
+```yaml
+SPM: 5A+ 3A 2B+
+Co-curricular: 8.97
+Anugerah: Anugerah Pelajar Cemerlang 2019-2023 
+```
+Kolej Matrikulasi Johor(2024-2025)
+```yaml
+PSPM: 4.0
+MUET: 4.0
+Co-curricular: 10
+Anugerah: Anugerah Khas Gemilang Kesluruhan 2024/2025
+```
+Universiti Teknologi Malaysia (2025-2029)
+```yaml
+Year 1:
+Year 2:
+Year3:
+Year4:
+Anugerah:
+```
 ## 🔏Leadership/Position
 Universiti Teknologi Malaysia
 ```yaml
