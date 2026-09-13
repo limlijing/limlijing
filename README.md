@@ -115,14 +115,6 @@ Ajk Badminton
 |My Mental Health App|📌 Mobile app designed to support **mental well-being** using **Flutter**. 🛠 Skills: Flutter, Mobile App Development, UX/UI Design|[View](https://limlijing.github.io/Mental-Health-Support-/)|
 
 
-
- 
-## 📊GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=limlijing&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limlijing&layout=compact&theme=tokyonight)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=limlijing&bg_color=191919&color=ffffff&line=14b8a6&point=ffffff&area=true&hide_border=true)  
-<br>
-
 ## 📩Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/lim-li-jing-13540b395)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:limlijing@gradruate.utm.my)
