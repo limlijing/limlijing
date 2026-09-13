@@ -12,7 +12,7 @@
 Greetings! I'm **LIM LI JING**, currently pursuing degree in **Data Engineering** at the **University of Technology Malaysia**.I am passionate about data pipeline engineering, platform reliability, and enabling data-driven culture.
 
 **🔹Name:** LIM LI JING  
-**🔹Age:** 19  
+**🔹Age:** 20  
 **🔹Nationality:** Malaysian  
 **🔹Education:** 1st year data engineering student at Universiti Teknologi Malaysia  
 **🔹Scholar:** Kuok Foundation Scholar  
@@ -38,7 +38,7 @@ Anugerah: Anugerah Khas Gemilang Kesluruhan 2024/2025
 ```
 Universiti Teknologi Malaysia (2025-2029)
 ```yaml
-Year 1:
+Year 1: 4.0
 Year 2:
 Year 3:
 Year 4:
